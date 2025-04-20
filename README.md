@@ -2,7 +2,7 @@
 <html lang="az">
 <head>
   <meta charset="UTF-8">
-  <title>Atilla'nın Rəngarəng Saytı</title>
+  <title>Atilla'nın Leylasi</title>
   <style>
     body {
       background: linear-gradient(to right, #ff7e5f, #feb47b, #86A8E7, #91EAE4);
@@ -36,8 +36,8 @@
   </style>
 </head>
 <body>
-  <h1>Salam, Atilla!</h1>
-  <p>Bu, sənin rəngarəng GitHub Pages saytındır 🎨✨</p>
-  <a class="button" href="#">Daha çox öyrən</a>
+  <h1>Salam, Lelos</h1>
+  <p>Leyla Atillaya aşiqdir 🎨✨</p>
+  <a class="button" href="#">öpüşmək üçün bura əl vur</a>
 </body>
 </html>
